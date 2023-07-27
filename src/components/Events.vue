@@ -202,6 +202,7 @@
 
     .title__alt {
       font-size: clampf(18, 375, 980, 64);
+      font-weight: 300;
     }
   }
 
