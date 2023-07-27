@@ -1,0 +1,10 @@
+@use '../utilities/' as *;
+
+.title {
+  color: var(--clr-neutral-100);
+  font-weight: 500;
+}
+
+.sub-title {
+  color: var(--clr-neutral-200);
+}
